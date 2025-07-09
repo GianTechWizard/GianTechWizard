@@ -36,7 +36,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,powershell&perline=4)](https://skillicons.dev)  
 <img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/GPT%20logo.jpg" alt="ChatGPT" width="50"/>
 <img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/power-bi-icon.webp" alt="Power BI" width="50"/>
-<img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/sql-server.png" alt="SQL Server" width="60"/>
+<img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/sql-server.png" alt="SQL Server" width="50"/>
 
 
 ##### 🌐Social Acount & Platform🌐
@@ -54,6 +54,7 @@
 <a href="https://www.instagram.com/gian_koleba?igsh=ZTd4cTl4ZTZkOXFp" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gian_koleba" height="30" width="40" />
 </a>
+<a href="https://discord.gg/hGMVKv5b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hGMVKv5b" height="40" width="50" /></a>
 </p>
 
 ##### 📈My Stats📈
