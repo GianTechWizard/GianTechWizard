@@ -61,11 +61,13 @@
 ![Gian GitHub stats](https://github-readme-stats.vercel.app/api?username=gian&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianTechWizard&layout=compact&shoq_icons=true&theme=dark)
 
+
 ##### 🎮Let's Play The Game🎮
 
 <img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 
 
