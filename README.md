@@ -25,9 +25,20 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-**Just like the lights in this city, data is everywhere — but only when structured, it tells a story.**
-
-**This repository is my little gift:**  
+**Just like the lights in this city, data is everywhere — but only when structured, it tells a story.This repository is my little gift:**  
 **a pixel of progress in my journey as a** `Data Engineer` 🚧📊
 
 </div>
+
+##### Skills & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,r,mysql,mongodb" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,discord,nodejs,postgres,vscode" />
+  </a>
+</p>
+
