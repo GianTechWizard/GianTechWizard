@@ -10,34 +10,36 @@
 
 <div align="center">
 
-**Just like the lights in this city, data is everywhere — but only when structured, it tells a story.**  **This repository is my little gift:**  
-**a pixel of progress in my journey as a** `Data Engineer` 🚧📊
-
+┌────────────────────────────────────────────────────────────┐  
+  **Just like the lights in this city and room, data is everywhere —     
+  but only when structured, it tells a story.                 
+  This repository is my little gift:                          
+  a pixel of progress in my journey as a `Data Engineer`** 🚧📊    
+└────────────────────────────────────────────────────────────┘
 </div>
 <br>
 
-- 🔭 I’m currently working on **my GitHub and learning data engineering basics**
+- 🔭 I’m currently working on my GitHub and learning data engineering basics
 
-- 🌱 I’m currently learning **Python, Java, SQL, MongoDB & Git**
+- 🌱 I’m currently learning **Python, Java, SQL, MongoDB, SQLServer & Git**
 
-- 👯 I’m looking to collaborate on **student data projects**
+- 👯 I’m looking to collaborate on student data projects
 
 - 📫 How to reach me **giannkolebaa@gmail.com**
 
-- ⚡ Fun fact **Love pixel art, clean data & late-night coding 🌙**
+- ⚡ Fun fact Love pixel art, clean data & late-night coding 🌙
 <br>
 
-##### Skills & Tools
+##### 💻Skills & Tools💻
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,mongodb&perline=4)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,powershell&perline=4)](https://skillicons.dev)  
 <img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/GPT%20logo.jpg" alt="ChatGPT" width="50"/>
-<img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/kaggle%20icon.png" alt="Kaggle" width="50"/>
 <img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/power-bi-icon.webp" alt="Power BI" width="50"/>
-<img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/sql-server.png" alt="SQL Server" width="50"/>
+<img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/sql-server.png" alt="SQL Server" width="60"/>
 
 
-##### Media Social & Platform
+##### 🌐Social Acount & Platform🌐
 
 <p align="left">
 <a href="https://x.com/Gian_Koleba?t=-AxTXG2N6IsX-5DYi4NihA&s=09" target="blank">
@@ -54,12 +56,12 @@
 </a>
 </p>
 
-##### My Stats
+##### 📈My Stats📈
 
 ![Gian GitHub stats](https://github-readme-stats.vercel.app/api?username=gian&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianTechWizard&layout=compact&shoq_icons=true&theme=dark)
 
-##### Let's Play The Game
+##### 🎮Let's Play The Game🎮
 
 <img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/output/snake.svg" alt="Snake animation" />
 
