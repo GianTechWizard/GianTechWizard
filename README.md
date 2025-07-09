@@ -35,6 +35,7 @@
 <img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/kaggle%20icon.png" alt="Kaggle" width="50"/>
 <img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/power-bi-icon.webp" alt="Power BI" width="50"/>
 
+
 ##### Media Social & Platform
 
 <p align="left">
@@ -62,5 +63,7 @@
 <img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
 
 
