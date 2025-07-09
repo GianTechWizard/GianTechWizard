@@ -28,38 +28,15 @@ Here are some ideas to get you started:
 
 **Just like the lights in this city, data is everywhere — but only when structured, it tells a story.This repository is my little gift:**  
 **a pixel of progress in my journey as a** `Data Engineer` 🚧📊
+<br>
 
-<table>
-  <tr>
-    <td>🔭</td>
-    <td><strong>I’m currently working on:</strong> building my GitHub profile and learning data engineering basics.</td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td><strong>I’m currently learning:</strong> SQL, MongoDB, Java and Git (the fundamentals).</td>
-  </tr>
-  <tr>
-    <td>👯</td>
-    <td><strong>I’m looking to collaborate on:</strong> simple open-source or student projects related to data 📊</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>Fun fact:</strong> I love pixel art, clean data, and quiet late-night coding vibes 🌙</td>
-  </tr>
-</table>
-
-
-</div>
+- 🔭 I’m currently working on: building my GitHub profile and learning data engineering basics.  
+- 🌱 I’m currently learning: Python, Java, SQL, MongoDB, and Git (the fundamentals).  
+- 👯 I’m looking to collaborate on: simple open-source or student projects related to data 📊  
+- ⚡ Fun fact: I love pixel art, clean data, and quiet late-night coding vibes 🌙
+<br>
 
 #### Skills & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,mongodb" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,discord,vscode" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
