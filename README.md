@@ -1,10 +1,12 @@
 ## Hi I'm Gian 👋
 
+
 <div align="center">
 
-<img src="img/header%202.gif" width="600" alt="Gian Ananta Koleba"/>
+<img src="img/header%202.gif" width="100%" alt="Gian Ananta Koleba"/>
 
 </div>
+
 
 
 <!--
