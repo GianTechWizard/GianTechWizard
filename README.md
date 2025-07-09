@@ -1,6 +1,7 @@
 ## Hi I'm Gian 👋
 
 ![Gian Ananta Koleba](https://i.pinimg.com/originals/26/39/e1/2639e168e8bd0e2b11c4b6f2e180a8b9.gif)
+
 <!--
 **GianTechWizard/GianTechWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,5 +24,3 @@ Here are some ideas to get you started:
 **a pixel of progress in my journey as a** `Data Engineer` 🚧📊
 
 </div>
-
-
