@@ -57,3 +57,12 @@
 ![Gian GitHub stats](https://github-readme-stats.vercel.app/api?username=gian&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianTechWizard&layout=compact&shoq_icons=true&theme=dark)
 
+##### Let's Play The Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/output/pacman-contribution-graph.svg">
+</picture>
+
+
