@@ -34,6 +34,7 @@
 <img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/GPT%20logo.jpg" alt="ChatGPT" width="50"/>
 <img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/kaggle%20icon.png" alt="Kaggle" width="50"/>
 <img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/power-bi-icon.webp" alt="Power BI" width="50"/>
+<img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/sql-server.png" alt="SQL Server" width="60"/>
 
 
 ##### Media Social & Platform
