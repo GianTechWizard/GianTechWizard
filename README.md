@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 **a pixel of progress in my journey as a** `Data Engineer` 🚧📊
 <br>
 
-- 🔭 I’m currently working on: building my GitHub profile and learning data engineering basics.  
+-🔭 I’m currently working on: building my GitHub profile and learning data engineering basics.  
 - 🌱 I’m currently learning: Python, Java, SQL, MongoDB, and Git (the fundamentals).  
 - 👯 I’m looking to collaborate on: simple open-source or student projects related to data 📊  
 - ⚡ Fun fact: I love pixel art, clean data, and quiet late-night coding vibes 🌙
@@ -38,5 +38,10 @@ Here are some ideas to get you started:
 
 #### Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,mongodb)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,powershell)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/GPT%20logo.jpg" alt="ChatGPT" width="50"/>
+<img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/kaggle%20icon.png" alt="Kaggle" width="50"/>
+<img src="https://raw.githubusercontent.com/GianTechWizard/GianTechWizard/main/img/power-bi-icon.webp" alt="Power BI" width="50"/>
+
+
 
